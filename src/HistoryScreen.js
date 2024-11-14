@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-const SettingsScreen = () => {
+const HistoryScreen = () => {
   return (
     <View
       style={{
@@ -11,9 +11,9 @@ const SettingsScreen = () => {
         alignItems: 'center',
       }}
     >
-      <Text>Settings Screen</Text>
+      <Text>History Screen</Text>
     </View>
   );
 };
 
-export default SettingsScreen;
+export default HistoryScreen;

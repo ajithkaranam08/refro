@@ -1,0 +1,487 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Rithish",
+      "type": "driver",
+      "license": "batch",
+      "location": "alapakkam",
+      "price_per_day": 1000,
+      "description": "Discover the PEUGEOT SUV 3008 with its unique design with innovative SUV codes. Its characteristic and original design combines power and elegance with dynamism and flowing lines."
+    },
+    {
+      "id": 2,
+      "name": "Ajith",
+      "type": "passenger",
+      "location": "chennai",
+      "address": "chennai, india"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh",
+      "type": "driver",
+      "license": "commercial",
+      "location": "madhavaram",
+      "price_per_day": 1200,
+      "description": "A spacious and well-designed Toyota Fortuner for a comfortable and stylish ride."
+    },
+    {
+      "id": 4,
+      "name": "Suresh",
+      "type": "passenger",
+      "location": "bengaluru",
+      "address": "bengaluru, india"
+    },
+    {
+      "id": 5,
+      "name": "Praveen",
+      "type": "driver",
+      "license": "batch",
+      "location": "tamilnadu",
+      "price_per_day": 1100,
+      "description": "Enjoy a luxury ride with the BMW X5, offering unmatched comfort and performance."
+    },
+    {
+      "id": 6,
+      "name": "Anjali",
+      "type": "passenger",
+      "location": "delhi",
+      "address": "delhi, india"
+    },
+    {
+      "id": 7,
+      "name": "Manoj",
+      "type": "driver",
+      "license": "commercial",
+      "location": "hyderabad",
+      "price_per_day": 1500,
+      "description": "Get the ultimate experience with the Mercedes Benz GLC, with luxury and performance."
+    },
+    {
+      "id": 8,
+      "name": "Kavya",
+      "type": "passenger",
+      "location": "chennai",
+      "address": "chennai, india"
+    },
+    {
+      "id": 9,
+      "name": "Vijay",
+      "type": "driver",
+      "license": "batch",
+      "location": "tamilnadu",
+      "price_per_day": 900,
+      "description": "Honda CR-V with great performance and stylish exterior."
+    },
+    {
+      "id": 10,
+      "name": "Neha",
+      "type": "passenger",
+      "location": "bangalore",
+      "address": "bangalore, india"
+    },
+    {
+      "id": 11,
+      "name": "Harish",
+      "type": "driver",
+      "license": "commercial",
+      "location": "kerala",
+      "price_per_day": 1300,
+      "description": "Nissan X-Trail is a perfect balance of elegance and off-road performance."
+    },
+    {
+      "id": 12,
+      "name": "Ravi",
+      "type": "passenger",
+      "location": "delhi",
+      "address": "delhi, india"
+    },
+    {
+      "id": 13,
+      "name": "Sathish",
+      "type": "driver",
+      "license": "batch",
+      "location": "madurai",
+      "price_per_day": 1400,
+      "description": "Toyota Innova Crysta for a family-friendly experience."
+    },
+    {
+      "id": 14,
+      "name": "Shalini",
+      "type": "passenger",
+      "location": "chennai",
+      "address": "chennai, india"
+    },
+    {
+      "id": 15,
+      "name": "Venu",
+      "type": "driver",
+      "license": "commercial",
+      "location": "coimbatore",
+      "price_per_day": 1500,
+      "description": "Ford Endeavour offers a smooth and robust driving experience."
+    },
+    {
+      "id": 16,
+      "name": "Priya",
+      "type": "passenger",
+      "location": "coimbatore",
+      "address": "coimbatore, india"
+    },
+    {
+      "id": 17,
+      "name": "Gokul",
+      "type": "driver",
+      "license": "batch",
+      "location": "pondicherry",
+      "price_per_day": 1000,
+      "description": "Maruti Suzuki Vitara Brezza, a perfect compact SUV for city travel."
+    },
+    {
+      "id": 18,
+      "name": "Sangeetha",
+      "type": "passenger",
+      "location": "mumbai",
+      "address": "mumbai, india"
+    },
+    {
+      "id": 19,
+      "name": "Ajay",
+      "type": "driver",
+      "license": "commercial",
+      "location": "bengaluru",
+      "price_per_day": 1100,
+      "description": "Hyundai Creta offers both comfort and power for urban adventures."
+    },
+    {
+      "id": 20,
+      "name": "Madhavi",
+      "type": "passenger",
+      "location": "hyderabad",
+      "address": "hyderabad, india"
+    },
+    {
+      "id": 21,
+      "name": "Vijayan",
+      "type": "driver",
+      "license": "batch",
+      "location": "chennai",
+      "price_per_day": 1200,
+      "description": "Kia Seltos is a stylish and spacious SUV for an urban experience."
+    },
+    {
+      "id": 22,
+      "name": "Kavitha",
+      "type": "passenger",
+      "location": "bangalore",
+      "address": "bangalore, india"
+    },
+    {
+      "id": 23,
+      "name": "Karthik",
+      "type": "driver",
+      "license": "commercial",
+      "location": "madurai",
+      "price_per_day": 1250,
+      "description": "Skoda Octavia offers a perfect blend of power and luxury."
+    },
+    {
+      "id": 24,
+      "name": "Anita",
+      "type": "passenger",
+      "location": "chennai",
+      "address": "chennai, india"
+    },
+    {
+      "id": 25,
+      "name": "Suresh",
+      "type": "driver",
+      "license": "batch",
+      "location": "tiruchirappalli",
+      "price_per_day": 1300,
+      "description": "Honda City is perfect for a smooth and efficient city commute."
+    },
+    {
+      "id": 26,
+      "name": "Rama",
+      "type": "passenger",
+      "location": "coimbatore",
+      "address": "coimbatore, india"
+    },
+    {
+      "id": 27,
+      "name": "Harish",
+      "type": "driver",
+      "license": "commercial",
+      "location": "tanjore",
+      "price_per_day": 1000,
+      "description": "Renault Duster offers a tough exterior with a comfortable interior."
+    },
+    {
+      "id": 28,
+      "name": "Sowmya",
+      "type": "passenger",
+      "location": "trichy",
+      "address": "trichy, india"
+    },
+    {
+      "id": 29,
+      "name": "Mohan",
+      "type": "driver",
+      "license": "batch",
+      "location": "thanjavur",
+      "price_per_day": 1150,
+      "description": "BMW 3 Series delivers the perfect balance of style, performance, and comfort."
+    },
+    {
+      "id": 30,
+      "name": "Mithra",
+      "type": "passenger",
+      "location": "trichy",
+      "address": "trichy, india"
+    },
+    {
+      "id": 31,
+      "name": "Manikandan",
+      "type": "driver",
+      "license": "commercial",
+      "location": "chennai",
+      "price_per_day": 1400,
+      "description": "Land Rover Discovery offers unmatched luxury and off-road capability."
+    },
+    {
+      "id": 32,
+      "name": "Lakshmi",
+      "type": "passenger",
+      "location": "coimbatore",
+      "address": "coimbatore, india"
+    },
+    {
+      "id": 33,
+      "name": "Shankar",
+      "type": "driver",
+      "license": "batch",
+      "location": "madurai",
+      "price_per_day": 1500,
+      "description": "Audi Q7 offers an unparalleled luxury experience for any trip."
+    },
+    {
+      "id": 34,
+      "name": "Vinoth",
+      "type": "passenger",
+      "location": "chennai",
+      "address": "chennai, india"
+    },
+    {
+      "id": 35,
+      "name": "Madhur",
+      "type": "driver",
+      "license": "commercial",
+      "location": "salem",
+      "price_per_day": 1600,
+      "description": "Porsche Cayenne combines luxury with sports performance for an extraordinary ride."
+    },
+    {
+      "id": 36,
+      "name": "Dinesh",
+      "type": "passenger",
+      "location": "salem",
+      "address": "salem, india"
+    },
+    {
+      "id": 37,
+      "name": "Prakash",
+      "type": "driver",
+      "license": "batch",
+      "location": "karur",
+      "price_per_day": 1200,
+      "description": "Toyota Corolla for a premium sedan experience with refined comfort."
+    },
+    {
+      "id": 38,
+      "name": "Sowmya",
+      "type": "passenger",
+      "location": "karur",
+      "address": "karur, india"
+    },
+    {
+      "id": 39,
+      "name": "Saravanan",
+      "type": "driver",
+      "license": "commercial",
+      "location": "namakkal",
+      "price_per_day": 1350,
+      "description": "Chevrolet Trailblazer, offering a great mix of power and luxury."
+    },
+    {
+      "id": 40,
+      "name": "Divya",
+      "type": "passenger",
+      "location": "namakkal",
+      "address": "namakkal, india"
+    },
+    {
+      "id": 41,
+      "name": "Prabhu",
+      "type": "driver",
+      "license": "batch",
+      "location": "vellore",
+      "price_per_day": 1100,
+      "description": "Ford EcoSport is a compact and efficient SUV for any adventure."
+    },
+    {
+      "id": 42,
+      "name": "Renu",
+      "type": "passenger",
+      "location": "vellore",
+      "address": "vellore, india"
+    },
+    {
+      "id": 43,
+      "name": "Ajay",
+      "type": "driver",
+      "license": "commercial",
+      "location": "tirunelveli",
+      "price_per_day": 1000,
+      "description": "Mahindra XUV500 delivers power and style with utmost comfort."
+    },
+    {
+      "id": 44,
+      "name": "Arthi",
+      "type": "passenger",
+      "location": "tirunelveli",
+      "address": "tirunelveli, india"
+    },
+    {
+      "id": 45,
+      "name": "Raghu",
+      "type": "driver",
+      "license": "batch",
+      "location": "erode",
+      "price_per_day": 1300,
+      "description": "Hyundai Tucson offers a luxury experience with premium features."
+    },
+    {
+      "id": 46,
+      "name": "Sreeja",
+      "type": "passenger",
+      "location": "erode",
+      "address": "erode, india"
+    },
+    {
+      "id": 47,
+      "name": "Naveen",
+      "type": "driver",
+      "license": "commercial",
+      "location": "tirupur",
+      "price_per_day": 1450,
+      "description": "Chevrolet Captiva offers spacious seating and a premium experience."
+    },
+    {
+      "id": 48,
+      "name": "Tharini",
+      "type": "passenger",
+      "location": "tirupur",
+      "address": "tirupur, india"
+    },
+    {
+      "id": 49,
+      "name": "Senthil",
+      "type": "driver",
+      "license": "batch",
+      "location": "cuddalore",
+      "price_per_day": 1100,
+      "description": "Renault Kwid is a compact and stylish car for city travel."
+    },
+    {
+      "id": 50,
+      "name": "Ravina",
+      "type": "passenger",
+      "location": "cuddalore",
+      "address": "cuddalore, india"
+    }
+  ],
+  "drivers_1": [
+    {
+      "id": 1,
+      "name": "Rithish",
+      "type": "driver",
+      "license": "batch",
+      "location": "alapakkam",
+      "price_per_day": 1000,
+      "description": "Discover the PEUGEOT SUV 3008 with its unique design with innovative SUV codes. Its characteristic and original design combines power and elegance with dynamism and flowing lines."
+    },
+    {
+      "id": 2,
+      "name": "Rithish",
+      "type": "driver",
+      "license": "batch",
+      "location": "chennai",
+      "price_per_day": 1000,
+      "description": "Discover the PEUGEOT SUV 3008 with its unique design with innovative SUV codes. Its characteristic and original design combines power and elegance with dynamism and flowing lines."
+    },
+    {
+      "id": 3,
+      "name": "Rajesh",
+      "type": "driver",
+      "license": "commercial",
+      "location": "madhavaram",
+      "price_per_day": 1200,
+      "description": "A spacious and well-designed Toyota Fortuner for a comfortable and stylish ride."
+    },
+    {
+      "id": 4,
+      "name": "Suresh",
+      "type": "driver",
+      "license": "commercial",
+      "location": "madhavaram",
+      "price_per_day": 1200,
+      "description": "A spacious and well-designed Toyota Fortuner for a comfortable and stylish ride."
+    },
+    {
+      "id": 5,
+      "name": "Praveen",
+      "type": "driver",
+      "license": "commercial",
+      "location": "madhavaram",
+      "price_per_day": 1200,
+      "description": "A spacious and well-designed Toyota Fortuner for a comfortable and stylish ride."
+    },
+    {
+      "id": 6,
+      "name": "Anjali",
+      "type": "driver",
+      "license": "commercial",
+      "location": "madhavaram",
+      "price_per_day": 1200,
+      "description": "A spacious and well-designed Toyota Fortuner for a comfortable and stylish ride."
+    },
+    {
+      "id": 7,
+      "name": "Manoj",
+      "type": "driver",
+      "license": "commercial",
+      "location": "hyderabad",
+      "price_per_day": 1500,
+      "description": "Get the ultimate experience with the Mercedes Benz GLC, with luxury and performance."
+    },
+    {
+      "id": 8,
+      "name": "Kavya",
+      "type": "driver",
+      "license": "commercial",
+      "location": "madhavaram",
+      "price_per_day": 1200,
+      "description": "A spacious and well-designed Toyota Fortuner for a comfortable and stylish ride."
+    },
+    {
+      "id": 9,
+      "name": "Vijay",
+      "type": "driver",
+      "license": "batch",
+      "location": "tamilnadu",
+      "price_per_day": 900,
+      "description": "Honda CR-V with great performance and stylish exterior."
+    }
+  ]
+}
